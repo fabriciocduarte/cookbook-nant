@@ -1,10 +1,11 @@
 name 'nant'
-maintainer 'Fabricio Correa Duarte'
+maintainer 'Fabrício Corrêa Duarte'
 maintainer_email 'fabricio.c.duarte@outlook.com'
 license 'MIT'
-description 'Installs/Configures nant'
-long_description 'Installs/Configures nant'
+description 'NAnt is a free general purpose build tool similar to Apache Ant.'
+long_description 'NAnt is a free open source general purpose build tool. It is built using .NET and it is very similar to, if not based on, Apache Ant.'
 version '0.1.0'
+
 chef_version '>= 12.1' if respond_to?(:chef_version)
 depends 'windows'
 
