@@ -1,2 +1,4 @@
-# cookbook-nant
-NAnt Chef Cookbook
+# nant
+
+TODO: Enter the cookbook description here.
+
