@@ -1,5 +1,5 @@
 # nant Cookbook
-[![](https://img.shields.io/badge/cookbook-v0.1.0-blue.svg?style=flat)]()
+[![](https://img.shields.io/badge/cookbook-v0.1.1-blue.svg?style=flat)]()
 
 NAnt is a free open source general purpose build tool. It is built using .NET and it is very similar if not based on Apache Ant.
 

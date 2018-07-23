@@ -4,7 +4,7 @@ maintainer_email 'fabricio.c.duarte@outlook.com'
 license 'MIT'
 description 'NAnt is a free general purpose build tool similar to Apache Ant.'
 long_description 'NAnt is a free open source general purpose build tool. It is built using .NET and it is very similar to, if not based on, Apache Ant.'
-version '0.1.0'
+version '0.1.1'
 
 chef_version '>= 12.1' if respond_to?(:chef_version)
 depends 'windows'
